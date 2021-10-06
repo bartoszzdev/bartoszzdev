@@ -1,0 +1,4 @@
+- 👨🏻‍💻 Hi, I'm Claudinei Campos, lover and aspiring programmer!
+- 🥰 I love anything involving fictional stories, and if you like Harry Potter just like me you can always count on me!
+- 🚀 I'm going to share here my journey of learning software development..
+- 🌱 At the moment i'm trying to figure out the coolest behind javaScript!
