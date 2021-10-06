@@ -1,4 +1,4 @@
-- 👨🏻‍💻 Hi, I'm @bartoszzdev lover and aspiring programmer!
+- 👨🏻‍💻 Hi, I'm @bartoszzdev!
 - 🥰 I love anything involving fictional stories, and if you like Harry Potter just like me you can always count on me!
 - 🚀 I'm going to share here my journey of learning software development..
 - 🌱 At the moment I'm trying to figure out the coolest behind javaScript!
