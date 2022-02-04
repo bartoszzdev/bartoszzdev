@@ -16,18 +16,10 @@
 </div>
 <hr>
 
-<div align="center">
+<div display="inline" align="center">
   <a href="https://github.com/bartoszzdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bartoszzdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszzdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ##
-  
-### - Contact 🗒️
-<div><br>
-  <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
