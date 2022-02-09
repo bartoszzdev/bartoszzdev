@@ -1,4 +1,4 @@
-## Hello, my name is Claudinei Campos(bartoszzdev)! I discovered my passionate for web development, and since then I've been trying to find out the coolest behind front end development, here I'm gonna share my journey through my studies... 🖖🏻👨🏻‍💻
+## Hello, my name is Claudinei Campos(bartoszzdev)! I discovered my passion for web development, and since then I've been trying to find out the coolest behind front end development, here I'm gonna share my journey through my studies... 🖖🏻👨🏻‍💻
 
 ### - My skills 🚀
 <div style="displat: inline_block"><br>
